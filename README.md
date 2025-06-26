@@ -31,12 +31,14 @@ Thanks to the effort of our awesome team:
 
 ## 🖼 Contributor Avatars
 
-<a href="https://github.com/AJU26-ARJUN" target="_blank">
-  <img src="https://github.com/AJU26-ARJUN.png" width="100" alt="Arjun S N"/>
-</a>
-<a href="https://github.com/aravindank94" target="_blank">
-  <img src="https://github.com/aravindank94.png" width="100" alt="Aravindan K"/>
-</a>
-<a href="https://github.com/OrionGD" target="_blank">
-  <img src="https://github.com/OrionGD.png" width="100" alt="Godfrey T R"/>
-</a>
+<p align="left">
+  <a href="https://github.com/AJU26-ARJUN" target="_blank">
+    <img src="https://github.com/AJU26-ARJUN.png" width="100" height="100" alt="Arjun S N" style="border-radius:50%;" />
+  </a>
+  <a href="https://github.com/aravindank94" target="_blank">
+    <img src="https://github.com/aravindank94.png" width="100" height="100" alt="Aravindan K" style="border-radius:50%;" />
+  </a>
+  <a href="https://github.com/OrionGD" target="_blank">
+    <img src="https://github.com/OrionGD.png" width="100" height="100" alt="Godfrey T R" style="border-radius:50%;" />
+  </a>
+</p>
