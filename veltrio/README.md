@@ -28,18 +28,20 @@ A web-based AI system that performs real-time language translation and sentiment
 
 ## 📁 Folder Structure
 
-veltrio-ai-web/
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── backend/
-│   ├── app.py
-│   ├── translation.py
-│   └── sentiment.py
-├── requirements.txt
-├── README.md
-├── .gitignore
+| 📂 **Folder** / 📄 **File** | 📝 **Description**                            |
+| --------------------------- | --------------------------------------------- |
+| `veltrio-ai-web/`           | Root project directory                        |
+| ├── `frontend/`             | Frontend files (UI)                           |
+| │ ├── `index.html`          | Main webpage with input/output interface      |
+| │ ├── `style.css`           | Styling for the webpage                       |
+| │ └── `script.js`           | JavaScript to fetch data from backend         |
+| ├── `backend/`              | Backend API using FastAPI                     |
+| │ ├── `app.py`              | FastAPI server and routing                    |
+| │ ├── `translation.py`      | MarianMT model integration for translation    |
+| │ └── `sentiment.py`        | BERT model integration for sentiment analysis |
+| ├── `requirements.txt`      | Python dependencies for the backend           |
+| ├── `README.md`             | Project overview and usage instructions       |
+| └── `.gitignore`            | Git ignore rules for local/development files  |
 
 ---
 
