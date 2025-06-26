@@ -27,3 +27,16 @@ Thanks to the effort of our awesome team:
 ---
 
 [![Contributors](https://contrib.rocks/image?repo=oriongd/GD-S-VELTRIO)](https://github.com/oriongd/GD-S-VELTRIO/graphs/contributors)
+---
+
+## 🖼 Contributor Avatars
+
+<a href="https://github.com/AJU26-ARJUN" target="_blank">
+  <img src="https://github.com/AJU26-ARJUN.png" width="100" alt="Arjun S N"/>
+</a>
+<a href="https://github.com/aravindank94" target="_blank">
+  <img src="https://github.com/aravindank94.png" width="100" alt="Aravindan K"/>
+</a>
+<a href="https://github.com/OrionGD" target="_blank">
+  <img src="https://github.com/OrionGD.png" width="100" alt="Godfrey T R"/>
+</a>
