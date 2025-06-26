@@ -4,3 +4,12 @@ transformers
 torch
 sentencepiece
 python-multipart
+
+| Package            | Purpose                                   |
+| ------------------ | ----------------------------------------- |
+| `fastapi`          | Backend web framework                     |
+| `uvicorn`          | ASGI server to run FastAPI                |
+| `transformers`     | HuggingFace library for MarianMT & BERT   |
+| `torch`            | Backend engine for models (PyTorch)       |
+| `sentencepiece`    | Tokenizer dependency for MarianMT         |
+| `python-multipart` | File/form handling in FastAPI (if needed) |
